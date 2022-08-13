@@ -1,2 +1,2 @@
 # Dicee-SwiftUI
-A SwiftUI App
+A SwiftUI project
